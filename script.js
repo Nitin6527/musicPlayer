@@ -32,10 +32,71 @@ const songs=[{
 },
 {
 	name: '03 SHYAM CHUDI BECHNE AAYA',
-	displayName:'Shyam Chudi Bechne aaya',
-	img:'metric-1',
+	displayName:'03 SHYAM CHUDI BECHNE AAYA',
+	img:'jacinto-3',
 	artist:'unknown'
-}]
+},
+{
+	name: '17 yah to preym ki bat hin udho',
+	displayName:'17 yah to preym ki bat hin udho',
+	img:'jacinto-2',
+	artist:'unknown'
+},
+{
+	name: '18 CHALE JAYEGA BIHARI JI',
+	displayName:'18 CHALE JAYEGA BIHARI JI',
+	img:'jacinto-3',
+	artist:'unknown'
+},
+{
+	name: '19 NAIYA  LE CHAL PARLIPAAR',
+	displayName:'19 NAIYA  LE CHAL PARLIPAAR',
+	img:'jacinto-1',
+	artist:'unknown'
+},
+{
+	name: '20 TU SUMRAN KAR RADHE RADHE',
+	displayName:'20 TU SUMRAN KAR RADHE RADHE',
+	img:'jacinto-2',
+	artist:'unknown'
+},
+{
+	name: '21 DAR PE TUMHARE SAWRE SAR KO JHUKA DIYA',
+	displayName:'21 DAR PE TUMHARE SAWRE SAR KO JHUKA DIYA',
+	img:'jacinto-3',
+	artist:'unknown'
+},
+{
+	name: '21 jeete bhi lakdi',
+	displayName:'21 jeete bhi lakdi',
+	img:'jacinto-1',
+	artist:'unknown'
+},
+{
+	name: '22 Banke Bhihari Mujhe',
+	displayName:'22 Banke Bhihari Mujhe',
+	img:'jacinto-1',
+	artist:'unknown'
+},
+{
+	name: '23 RAM NAAM KE HEERAY',
+	displayName:'23 RAM NAAM KE HEERAY',
+	img:'jacinto-2',
+	artist:'unknown'
+},
+{
+	name: '24 CHAL HO JA FAKIR',
+	displayName:'24 CHAL HO JA FAKIR',
+	img:'jacinto-3',
+	artist:'unknown'
+},
+{
+	name: '25 DUKH ME MAT KHABRANA',
+	displayName:'25 DUKH ME MAT KHABRANA',
+	img:'jacinto-1',
+	artist:'unknown'
+}
+]
 
 let isPlaying = false;
 
