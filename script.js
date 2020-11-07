@@ -25,10 +25,10 @@ const songs=[{
 	artist:'unknown'
 },
 {
-	name: '03 Kanha Re Kanha',
-	displayName:'kanha re kanha',
+	name: '15 GURU-M~1',
+	displayName:'15 GURU-M~1',
 	img:'jacinto-3',
-	artist:'Manish Tiwari'
+	artist:'unknown'
 },
 {
 	name: '03 SHYAM CHUDI BECHNE AAYA',
